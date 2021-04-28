@@ -6,7 +6,7 @@ Minecraft Version: (1.16.*)
 
 XPDeathPenalty is a Minecraft Sponge/SpongeForge server plugin designed to drop XP on death when KeepInventory is enabled. This is to counter-balance the effect of keeping one's inventory while also adding in some negative reinforcement on survival-multiplayer servers.
 
-There is no plugin config file as I attempted to make this plugin as lightweight as possible but there are some key features:
+There is no plugin config file as I attempted to make this plugin as lightweight as possible.
 
 It is highly recommended you use this plugin with a paper-spigot server as paper enables you to respawn the dragon egg with each dragon death (check paper.yml in server folder). 
 
